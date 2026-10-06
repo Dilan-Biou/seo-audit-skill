@@ -1,0 +1,12 @@
+{
+  "name": "seo-audit-skill",
+  "description": "SEO audit & fix skill for Claude Code",
+  "owner": { "name": "Dilan-Biou" },
+  "plugins": [
+    {
+      "name": "seo-audit",
+      "source": "./plugins/seo-audit",
+      "description": "Audit a web project for SEO, ask the developer once, apply and verify all fixes, hand off a checklist and to-do list."
+    }
+  ]
+}

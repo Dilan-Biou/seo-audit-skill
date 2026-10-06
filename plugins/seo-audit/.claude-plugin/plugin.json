@@ -1,0 +1,10 @@
+{
+  "name": "seo-audit",
+  "version": "1.0.0",
+  "description": "End-to-end SEO audit and fix for web projects: one batched round of developer questions, then all code fixes applied (uncommitted) and verified, plus a checklist, a production test script and an off-code to-do list. Deep Next.js App Router support, generic fallback.",
+  "author": { "name": "Dilan-Biou", "url": "https://github.com/Dilan-Biou" },
+  "homepage": "https://github.com/Dilan-Biou/seo-audit-skill",
+  "repository": "https://github.com/Dilan-Biou/seo-audit-skill",
+  "license": "MIT",
+  "keywords": ["seo", "audit", "nextjs", "core-web-vitals", "structured-data", "search-console"]
+}
