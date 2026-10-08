@@ -1,5 +1,7 @@
 # seo-audit — an SEO audit & fix skill for Claude Code
 
+> Not a developer? Start with the friendly explanation: **[ABOUT.md](ABOUT.md)** · **[فارسی](ABOUT.fa.md)**.
+
 Point it at a web project and it runs a full SEO checklist **end to end**:
 
 1. **Audit** — crawls the code and the live site, runs every check, writes `seo/AUDIT.md`
